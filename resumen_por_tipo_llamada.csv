@@ -1,0 +1,5 @@
+,Duración,Duración,Duración,Duración,Duración,Duración,Duración,Duración,Fraude,Fraude,Fraude,Fraude,Fraude,Fraude,Fraude,Fraude
+,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max
+Tipo de llamada,,,,,,,,,,,,,,,,
+Negocios,49917.0,7.500590981028507,4.017793464999316,1.0,4.0,7.0,11.0,14.0,49917.0,0.3022617545124907,0.4592426497630615,0.0,0.0,0.0,1.0,1.0
+Personal,50083.0,7.5056805702533795,4.029763111245317,1.0,4.0,7.0,11.0,14.0,50083.0,0.3033364614739532,0.45970389618036306,0.0,0.0,0.0,1.0,1.0
