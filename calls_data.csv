@@ -1,0 +1,11 @@
+duration,day_of_week,fraud
+1,Monday,non-fraudulent
+2,Tuesday,fraudulent
+5,Wednesday,non-fraudulent
+2,Thursday,fraudulent
+3,Friday,non-fraudulent
+4,Monday,fraudulent
+6,Tuesday,non-fraudulent
+2,Wednesday,fraudulent
+5,Thursday,non-fraudulent
+3,Friday,fraudulent
